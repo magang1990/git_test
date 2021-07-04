@@ -9,4 +9,5 @@ public class User {
 	private String name;
 	private Long money;
 	private String sex;
+	private String school;
 }
