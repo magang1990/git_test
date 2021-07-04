@@ -8,4 +8,5 @@ package com.mg.entity;
 public class User {
 	private String name;
 	private Long money;
+	private String sex;
 }
